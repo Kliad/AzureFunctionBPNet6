@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AppVersion": "2.0.0.0",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+    "BEACONCX": "Server=localhost;Initial Catalog=BEACON2.local.Db; User ID=sa;Password=s@password1;",
+    "ANALYTICSCX": "Server=localhost;Initial Catalog=analyticsEclaimsDev; User ID=sa;Password=s@password1;",
+
+    "WEBSITE_TIME_ZONE": "Singapore Standard Time",
+    "BDASHBOARD_REPORT_BASE_URL": "https://analytics.zoho.com/open-view",
+    "BDASHBOARD_URL_PARAM": "?zoho_criteria=%22Beacon_His_Claims_Query%22.%22facility%20code%22=",
+    "BDASHBOARD_ADMIN_REPORT_CODE": "1368811000005969025",
+    "BDASHBOARD_ADMIN_KEY_CODE": "47f0813630049d75c6c7bc5ef41ba68f",
+    "BDASHBOARD_USER_REPORT_CODE": "1368811000006094602",
+    "BDASHBOARD_USER_KEY_CODE": "d1442ba76e36083eb7c445613e8056f7"
+  }
+}
